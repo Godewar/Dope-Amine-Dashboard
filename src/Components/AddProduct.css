@@ -1,0 +1,40 @@
+/* .product {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+   */
+
+   .addBox {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: block;
+    margin:  0 5px;
+    color: #555;
+    border-radius: 5px;
+    justify-content: center;
+    
+  }
+  .appButton {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .appButton:hover {
+    background-color: #45a049;
+  }
+  .productForm{
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+   
+    width: 55%;
+  }
+ 
